@@ -1,4 +1,4 @@
-# python-programming-practice
+
 This repository contains Python coding practice notebooks covering fundamental programming concepts, string processing, list operations, and basic algorithms developed using Google Colab.
 
 # Python Coding Practice
@@ -9,8 +9,8 @@ I am using this repository to improve my Python programming and problem-solving 
 
 ## Topics Covered
 
--Sales Data Analysis
--convert a integers to decimals
+- Sales Data Analysis
+- convert a integers to decimals
 - count number of vowels in a given word
 - counting number of consonants in a given string
 - Reverse a string
